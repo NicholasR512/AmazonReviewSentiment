@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ressl\\Documents\\Github\\AmazonReviewSentiment\\AmazonReviewSentiment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6D2F485-FB18-47B7-B9B0-3EDC09E86C6A}|AmazonReviewSentiment\\AmazonReviewSentiment.csproj|c:\\users\\ressl\\documents\\github\\amazonreviewsentiment\\amazonreviewsentiment\\amazonreviewsentiment\\amazonreviewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6D2F485-FB18-47B7-B9B0-3EDC09E86C6A}|AmazonReviewSentiment\\AmazonReviewSentiment.csproj|solutionrelative:amazonreviewsentiment\\amazonreviewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6D2F485-FB18-47B7-B9B0-3EDC09E86C6A}|AmazonReviewSentiment\\AmazonReviewSentiment.csproj|c:\\users\\ressl\\documents\\github\\amazonreviewsentiment\\amazonreviewsentiment\\amazonreviewsentiment\\data\\reviews-again.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D6D2F485-FB18-47B7-B9B0-3EDC09E86C6A}|AmazonReviewSentiment\\AmazonReviewSentiment.csproj|solutionrelative:amazonreviewsentiment\\data\\reviews-again.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6D2F485-FB18-47B7-B9B0-3EDC09E86C6A}|AmazonReviewSentiment\\AmazonReviewSentiment.csproj|c:\\users\\ressl\\documents\\github\\amazonreviewsentiment\\amazonreviewsentiment\\amazonreviewsentiment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6D2F485-FB18-47B7-B9B0-3EDC09E86C6A}|AmazonReviewSentiment\\AmazonReviewSentiment.csproj|solutionrelative:amazonreviewsentiment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6D2F485-FB18-47B7-B9B0-3EDC09E86C6A}|AmazonReviewSentiment\\AmazonReviewSentiment.csproj|c:\\users\\ressl\\documents\\github\\amazonreviewsentiment\\amazonreviewsentiment\\amazonreviewsentiment\\data\\reviews-again.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D6D2F485-FB18-47B7-B9B0-3EDC09E86C6A}|AmazonReviewSentiment\\AmazonReviewSentiment.csproj|solutionrelative:amazonreviewsentiment\\data\\reviews-again.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{D6D2F485-FB18-47B7-B9B0-3EDC09E86C6A}|AmazonReviewSentiment\\AmazonReviewSentiment.csproj|c:\\users\\ressl\\documents\\github\\amazonreviewsentiment\\amazonreviewsentiment\\amazonreviewsentiment\\amazonreviewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D2F485-FB18-47B7-B9B0-3EDC09E86C6A}|AmazonReviewSentiment\\AmazonReviewSentiment.csproj|solutionrelative:amazonreviewsentiment\\amazonreviewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6D2F485-FB18-47B7-B9B0-3EDC09E86C6A}|AmazonReviewSentiment\\AmazonReviewSentiment.csproj|c:\\users\\ressl\\documents\\github\\amazonreviewsentiment\\amazonreviewsentiment\\amazonreviewsentiment\\amazonreviewsentiment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AmazonReviewData.cs",
               "DocumentMoniker": "C:\\Users\\ressl\\Documents\\Github\\AmazonReviewSentiment\\AmazonReviewSentiment\\AmazonReviewSentiment\\AmazonReviewData.cs",
               "RelativeDocumentMoniker": "AmazonReviewSentiment\\AmazonReviewData.cs",
-              "ToolTip": "C:\\Users\\ressl\\Documents\\Github\\AmazonReviewSentiment\\AmazonReviewSentiment\\AmazonReviewSentiment\\AmazonReviewData.cs*",
-              "RelativeToolTip": "AmazonReviewSentiment\\AmazonReviewData.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ressl\\Documents\\Github\\AmazonReviewSentiment\\AmazonReviewSentiment\\AmazonReviewSentiment\\AmazonReviewData.cs",
+              "RelativeToolTip": "AmazonReviewSentiment\\AmazonReviewData.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA5wCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T15:06:48.498Z",
               "IsPinned": true,
@@ -50,7 +50,7 @@
               "RelativeDocumentMoniker": "AmazonReviewSentiment\\Program.cs",
               "ToolTip": "C:\\Users\\ressl\\Documents\\Github\\AmazonReviewSentiment\\AmazonReviewSentiment\\AmazonReviewSentiment\\Program.cs",
               "RelativeToolTip": "AmazonReviewSentiment\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAoAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T14:53:05.49Z",
               "IsPinned": true,
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "reviews-again.txt",
               "DocumentMoniker": "C:\\Users\\ressl\\Documents\\Github\\AmazonReviewSentiment\\AmazonReviewSentiment\\AmazonReviewSentiment\\Data\\reviews-again.txt",
               "RelativeDocumentMoniker": "AmazonReviewSentiment\\Data\\reviews-again.txt",
